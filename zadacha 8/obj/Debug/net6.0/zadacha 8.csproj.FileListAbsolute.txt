@@ -1,0 +1,15 @@
+C:\Users\89177\OneDrive\Рабочий стол\домашняя работа сем1 задача 2\zadacha 8\bin\Debug\net6.0\zadacha 8.exe
+C:\Users\89177\OneDrive\Рабочий стол\домашняя работа сем1 задача 2\zadacha 8\bin\Debug\net6.0\zadacha 8.deps.json
+C:\Users\89177\OneDrive\Рабочий стол\домашняя работа сем1 задача 2\zadacha 8\bin\Debug\net6.0\zadacha 8.runtimeconfig.json
+C:\Users\89177\OneDrive\Рабочий стол\домашняя работа сем1 задача 2\zadacha 8\bin\Debug\net6.0\zadacha 8.dll
+C:\Users\89177\OneDrive\Рабочий стол\домашняя работа сем1 задача 2\zadacha 8\bin\Debug\net6.0\zadacha 8.pdb
+C:\Users\89177\OneDrive\Рабочий стол\домашняя работа сем1 задача 2\zadacha 8\obj\Debug\net6.0\zadacha 8.csproj.AssemblyReference.cache
+C:\Users\89177\OneDrive\Рабочий стол\домашняя работа сем1 задача 2\zadacha 8\obj\Debug\net6.0\zadacha 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\89177\OneDrive\Рабочий стол\домашняя работа сем1 задача 2\zadacha 8\obj\Debug\net6.0\zadacha 8.AssemblyInfoInputs.cache
+C:\Users\89177\OneDrive\Рабочий стол\домашняя работа сем1 задача 2\zadacha 8\obj\Debug\net6.0\zadacha 8.AssemblyInfo.cs
+C:\Users\89177\OneDrive\Рабочий стол\домашняя работа сем1 задача 2\zadacha 8\obj\Debug\net6.0\zadacha 8.csproj.CoreCompileInputs.cache
+C:\Users\89177\OneDrive\Рабочий стол\домашняя работа сем1 задача 2\zadacha 8\obj\Debug\net6.0\zadacha 8.dll
+C:\Users\89177\OneDrive\Рабочий стол\домашняя работа сем1 задача 2\zadacha 8\obj\Debug\net6.0\refint\zadacha 8.dll
+C:\Users\89177\OneDrive\Рабочий стол\домашняя работа сем1 задача 2\zadacha 8\obj\Debug\net6.0\zadacha 8.pdb
+C:\Users\89177\OneDrive\Рабочий стол\домашняя работа сем1 задача 2\zadacha 8\obj\Debug\net6.0\zadacha 8.genruntimeconfig.cache
+C:\Users\89177\OneDrive\Рабочий стол\домашняя работа сем1 задача 2\zadacha 8\obj\Debug\net6.0\ref\zadacha 8.dll
